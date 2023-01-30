@@ -79,9 +79,9 @@
                         d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"></path>
                 </svg>
             </div>
-            <div class="card" style="width: 100%; text-align: center;border-radius: 20px 20px 20px 20px;" id="el_card">
+            <div class="card" style="width: 100%; height: 80vh; text-align: center;border-radius: 20px 20px 20px 20px;" id="el_card">
                 <div class="card-image-custom">
-                    <img class="card-img-top" id="el_image" style="width: 200px">
+                    <img class="card-img-top" id="el_image" style="width: 300px">
                 </div>
                 <div class="card-body">
                     <h5 class="card-title" id="el_org"></h5>
