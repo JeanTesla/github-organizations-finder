@@ -21,7 +21,7 @@
 
         .my-custom-scrollbar {
             position: relative;
-            height: 78vh;
+            height: 75vh;
             overflow: auto;
         }
 
@@ -69,7 +69,6 @@
         </div>
     </div>
     <div class="row">
-
         <div class="col-sm">
             <hr>
             <div class="div_search" id="el_div_search">
@@ -141,8 +140,9 @@
                 </ul>
             </div>
         </div>
-        <div class="col">
+        <div class="col" style="text-align: center">
             <hr>
+            <h4>Repositórios salvos</h4>
             <div class="table-wrapper-scroll-y my-custom-scrollbar">
                 <table class="table table-bordered table-striped mb-0">
                     <thead>
